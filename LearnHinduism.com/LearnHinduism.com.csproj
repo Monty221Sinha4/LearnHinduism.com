@@ -136,6 +136,8 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\NewStyle.css" />
     <Content Include="Global.asax" />
+    <Content Include="IMages\God 12.jpg" />
+    <Content Include="IMages\Shiva 12.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
