@@ -21,5 +21,9 @@ namespace LearnHinduism.com.Controllers
         {
             return View();
         }
+        public ActionResult Gods()
+        {
+            return View();
+        }
     }
 }
