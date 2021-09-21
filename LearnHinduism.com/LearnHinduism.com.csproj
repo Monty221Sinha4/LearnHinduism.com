@@ -137,6 +137,7 @@
     <Content Include="Content\NewStyle.css" />
     <Content Include="Global.asax" />
     <Content Include="IMages\Caste system 1.png" />
+    <Content Include="IMages\Durga Puja 1.jpg" />
     <Content Include="IMages\God 12.jpg" />
     <Content Include="IMages\God Lmao 1.jpg" />
     <Content Include="IMages\Shiva 12.jpg" />
@@ -174,6 +175,7 @@
     <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="IMages\Durga 12.webp" />
     <None Include="packages.config" />
     <Content Include="Views\Shared\_LayoutPage1.cshtml" />
     <Content Include="Scripts\bootstrap.min.js.map" />
