@@ -136,6 +136,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\NewStyle.css" />
     <Content Include="Global.asax" />
+    <Content Include="IMages\Caste system 1.png" />
     <Content Include="IMages\God 12.jpg" />
     <Content Include="IMages\God Lmao 1.jpg" />
     <Content Include="IMages\Shiva 12.jpg" />
